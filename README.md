@@ -21,31 +21,15 @@ The project focuses on practical cybersecurity concepts such as:
 
 ---
 
-## Objectives
-
-- Build and manage a virtual network environment
-- Configure secure SSH communication between machines
-- Apply firewall rules for controlled access
-- Monitor authentication and system logs
-- Analyze network traffic and encrypted communication
-- Verify connectivity using ICMP and TCP traffic
-- Demonstrate secure file transfer between hosts
-
----
 
 ## Environment Setup
 
-### Virtual Machines
+### Virtual Box Machines
 
 - Ubuntu Base
 - ubuntu-1
 - ubuntu-2
-
-### Virtualization Platform
-
-- VirtualBox
-
-### Network Configuration
+Network Configuration
 
 The systems were already preconfigured and connected using:
 
